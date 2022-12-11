@@ -1,0 +1,16 @@
+.navbar{
+    background: linear-gradient(to left,#4C49EB, #3E79F7);
+}
+
+.flex-all-center{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+footer{
+    background: linear-gradient(to left,#4C49EB, #3E79F7);
+    color: beige;
+    height: 10vh;
+    font-family: 'Montserrat', sans-serif;
+}
